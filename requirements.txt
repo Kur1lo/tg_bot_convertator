@@ -1,0 +1,6 @@
+python-telegram-bot==20.0a1
+httpx==0.23.1
+pydantic==1.10.2
+moviepy==1.0.3
+aspose-words==23.1.0
+gtts==2.3.1
