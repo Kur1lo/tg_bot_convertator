@@ -67,7 +67,7 @@ async def my_id(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
 
 def main() -> None:
-    TOKEN = '5952023376:AAHgMsHwMB3N82DvF9weRVGrnYLeF8saJXo'
+    TOKEN = ''
     application = ApplicationBuilder().token(TOKEN).build()
 
     application.add_handler(CommandHandler("start", start))
